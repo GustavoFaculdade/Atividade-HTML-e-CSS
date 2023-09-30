@@ -26,7 +26,7 @@ body {
 
 
 .header__background {
-    background: url(/img/background.png) ;
+    background: url(../img/background.png) ;
     background-repeat: no-repeat;
     -webkit-background-size: 100% 100%;
     -moz-background-size: 100% 100%;
@@ -96,4 +96,8 @@ footer {
     text-align: center;
     padding: 3px;
     color: white;
+}
+
+footer a {
+    color: whitesmoke;
 }
